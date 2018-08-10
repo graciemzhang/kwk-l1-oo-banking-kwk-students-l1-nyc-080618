@@ -3,7 +3,8 @@ class Transfer
     @sender = sender
     @receiver = receiver
     @transfered = transfered
-
+    @status = "pending"
+    @amount = amount
   end 
   
   def sender 
