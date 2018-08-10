@@ -26,7 +26,4 @@ class Transfer
     return @amount
   end
   
-  def amount=(new_amount)
-    @amount = new_amount
-  end
 end
