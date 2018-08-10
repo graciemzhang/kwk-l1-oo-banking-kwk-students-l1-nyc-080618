@@ -23,4 +23,7 @@ class Transfer
     @status = new_status
   end
   
+  def amount
+    return @amount
+  end
 end
