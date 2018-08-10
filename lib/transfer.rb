@@ -26,4 +26,6 @@ class Transfer
     return @amount
   end
   
+  
+  
 end
